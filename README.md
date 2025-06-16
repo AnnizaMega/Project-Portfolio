@@ -72,7 +72,7 @@ Produced Data Marts for performance analysis — identifying poor, average, and 
 ##  Lets’ Connect
 
 ➥ **LinkedIn:** [https://www.linkedin.com/in/anniza-rahmawati-mega-suryani/](https://www.linkedin.com/in/anniza-rahmawati-mega-suryani/)  
-➥ **Email:** [annizabianalyst@gmail.com](mailto:annizabianalyst@gmail.com)  
+➥ **Email:** [annizamegabianalyst@gmail.com](mailto:annizamegabianalyst@gmail.com)  
 ➥ **Portfolio Web (Google Sites):** [https://sites.google.com/view/portfolio-annizamega/](https://sites.google.com/view/portfolio-annizamega/)  
 
 ---
