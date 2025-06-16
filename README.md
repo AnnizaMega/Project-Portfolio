@@ -8,7 +8,7 @@
 
 ##  Introduction
 
-Hello, I'm **Anniza Rahmawati Mega Suryani**, a **Business Intelligence specialist** who combines business acumen with advanced analytics to drive data-driven decision making. **driving measurable business impact through data-driven insights**
+Hello, I'm **Anniza Rahmawati Mega Suryani**, a **Business Intelligence specialist** who combines business acumen with advanced analytics to drive data-driven decision making. 
 
 My unique background combines **entrepreneurial experience** as **Co-Owner of Anonymous Outdoor Gears (2015–2024)** alongside **Business Development expertise at PT Yuefa Universal Group (2022–2025)**, with advanced **Business Intelligence and Data Analytics skills**.
 
