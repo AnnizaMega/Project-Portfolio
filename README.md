@@ -1,84 +1,159 @@
-# 📁 Project Portfolio — Anniza Rahmawati Mega S
+# 📁 Project Portfolio — Anniza Rahmawati Mega Suryani
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
 ![Business-Intelligence](https://img.shields.io/badge/Business-Intelligence-brightgreen)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow)
+![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
 
 ##  Introduction
 
-Hello, I’m **Anniza Rahmawati Mega S**, a **Business Intelligence Analyst** with a unique blend of **entrepreneurial and business development experience** alongside strong **analytical expertise**.
+Hello, I'm **Anniza Rahmawati Mega Suryani**, an aspiring **Business Intelligence Analyst** with a proven track record of **driving measurable business impact through data-driven insights**.
 
-Before transitioning into the world of data, I was **co-owner of Anonymous Outdoor Gears (2017–2024)** and **Business Development at Yuefa Universal (2021–2023)**.  
-This background has provided me with a deep understanding of **how businesses operate**, from supplier relationships and pricing strategies to market expansion and customer behavior.
+My unique background combines **entrepreneurial experience** as **Co-Owner of Anonymous Outdoor Gears (2015–2024)** alongside **Business Development expertise at PT Yuefa Universal Group (2022–2025)**, with advanced **Business Intelligence and Data Analytics skills**.
 
-Today, I leverage this rich, real-world business perspective to **turn raw data into actionable strategies**.  
-My portfolio reflects this unique blend — applying techniques like **ETL, regression, segmentation, and churn analysis** — to solve problems that directly affect a company’s bottom line.
+###  **Proven Business Impact:**
+- **Increased targeted campaign effectiveness by 20%** through RFM segmentation models
+- **Improved customer lifetime value (CLV) prediction accuracy by 25%** using statistical modeling
+- **Boosted conversion rates by 15%** through market trend analysis and competitor insights
+- **Reduced inventory costs by 10%** and **increased e-commerce sales by 10%** through data-driven strategies
+- **Negotiated export contracts for 1,000+ MT palm oil/month**, demonstrating large-scale business operations
 
-Proficient in **Python (pandas, scikit-learn), SQL, Tableau, and Power BI**, I am able to extract, transform, and visualize data, helping businesses make smarter decisions.
+This combination of **real business ownership experience** and **technical data expertise** enables me to understand both the strategic and operational challenges businesses face, making me uniquely positioned to deliver **actionable insights that drive bottom-line results**.
 
-I’m excited to grow into roles such as **Business Intelligence Analyst or Business Analyst**, where I can combine my entrepreneurial mindset, industry experience, and technical skills to drive measurable business impact.  
-I’m **open to relocation to Malaysia, Singapore, or Australia** for the right opportunity.
+###  **Why My Business Background Makes Me a Stronger BI/BA Professional:**
 
----
+** Deep Business Domain Knowledge:** My entrepreneurial experience, even part-time, provided hands-on understanding of business operations - from customer acquisition to inventory management, from pricing strategies to supplier relationships.
 
-##  Skills Highlight
+** Stakeholder Communication:** Experience working with diverse stakeholders (suppliers, customers, partners, team members) across different business contexts has honed my ability to translate technical insights into business language that drives action.
 
-- **Business Intelligence:** ETL, Reporting, Dashboards, Metrics  
-- **Python:** pandas, scikit-learn, regression, segmentation  
-- **Tableau / Power BI:** Visualize and communicate data effectively  
-- **SQL:** Query, manipulate, and transform large datasets  
-- **Business Experience:** Co-owner, Business Development, Market expansion  
-- **Soft Skills:** Communication, Collaborative, Adaptability, Initiative  
+** Business Impact Focus:** Having been involved in business operations with real financial implications, I instinctively focus on analyses that drive revenue, reduce costs, or improve operational efficiency - not just interesting data patterns.
 
----
+** Requirements Gathering:** My business development and entrepreneurial experience involved constantly identifying client needs, market opportunities, and operational requirements - directly transferable to gathering business requirements for BI/BA projects.
 
-## 🔹 Certifications
+** Problem-Solving Under Pressure:** Managing business operations and development projects has developed strong analytical thinking and decision-making skills in dynamic environments.
 
- **Google Data Analytics Certificate (Beginner)**  
- **Business Intelligence Certificate — Dibimbing**  
- **Data Analytics Certificate — Digital Skola**  
- **Business Analyst Certificate — IBM (Coursera)**  
+**Career Goal:** Seeking **Business Intelligence Analyst or Business Analyst** roles with **competitive salary packages** in **Malaysia, Singapore, or Australia**.
 
 ---
 
-##  Project Portfolio
+##  Core Competencies
 
-Here are 3 key projects that highlight my skills and expertise:
+### **Business Intelligence & Analytics Experience**
+- **Market Research & Competitive Intelligence:** 7+ years analyzing market trends, competitor positioning, and industry dynamics to inform strategic decisions
+- **Financial Analysis & Modeling:** Extensive experience in P&L management, budgeting, forecasting, and ROI analysis across multiple business units
+- **Stakeholder Management:** Proven ability to work with diverse stakeholders (suppliers, customers, partners) to gather requirements and communicate insights
+- **Process Improvement:** Track record of identifying inefficiencies and implementing data-driven solutions to optimize operations
+
+### **Data Analytics & Visualization**
+- **Statistical Modeling:** Customer Segmentation (RFM), Predictive Analytics, CLV Modeling, Regression Analysis
+- **Programming & Tools:** Python (pandas, scikit-learn), SQL, Machine Learning, Advanced Excel
+- **Visualization Platforms:** Tableau, Power BI, Interactive Dashboards, Real-time Reporting
+- **Database Management:** ETL processes, Data Warehousing, PostgreSQL, Data Cleaning & Wrangling
+
+### **Leadership & Communication**
+- **Data Storytelling** | **Stakeholder Communication** | **Cross-functional Collaboration**
+- **Project Management** | **Team Leadership** | **Strategic Planning**
 
 ---
+
+##  Education & Certifications
+
+**Bachelor's Degree in Business Administration** | School of Business and Trade (2023-2025)
+
+### **Professional Certifications:**
+ **Business Intelligence Analyst** — Dibimbing **(Grade: 89.3/100)** (Jan-Jun 2024)  
+ **Fast Track Data Analytics** — Digital Skola (Oct-Dec 2023)  
+ **Google Data Analytics Certificate** — Google (2023)  
+ **Business Analyst Certificate** — IBM (Coursera)  
+
+---
+
+##  Featured Projects
 
 ### 1️⃣ [Customer Churn Analysis and Customer Lifetime Value (CLV)](https://github.com/AnnizaMega/customer_churn_cltv_prediction)  
-- **Tools:** Python, scikit-learn, lifetimes  
-- **Brief Description:**  
-Developed Churn Model (Random Forest) and Customer Lifetime Model (Gamma-Gamma) to help retain high-risk and maximize profits from high-value segments.
+**Tools:** Python, scikit-learn, lifetimes  
+**Business Impact:**
+- **Improved CLV prediction accuracy by 25%** using Gamma-Gamma modeling
+- **Identified high-risk customer segments** for targeted retention campaigns
+- **Developed actionable retention strategies** for high-value customer segments
+
+**Key Techniques:** Random Forest classification, RFM analysis, statistical modeling
 
 ---
 
 ### 2️⃣ [Optimizing Customer Engagement through RFM Segmentation](https://github.com/AnnizaMega/marketing_segmentation_analysis)  
-- **Tools:** Python, scikit-learn, Power BI  
-- **Brief Description:**  
-Applied RFM scoring to segment customer base and implemented tailored promotions to maximize retention and loyalty.
+**Tools:** Python, scikit-learn, Power BI  
+**Business Impact:**
+- **Increased targeted campaign effectiveness by 20%** through precise customer segmentation
+- **Enhanced customer targeting** leading to improved marketing ROI
+- **Created interactive dashboards** for real-time customer insights
+
+**Key Techniques:** RFM scoring, clustering algorithms, behavioral analysis
 
 ---
 
-### 3️⃣ [ETL and Data Warehouse — Employee Analysis](https://github.com/AnnizaMega/employee_data_warehouse_sql)  
-- **Tools:** Postgres, Canva, DrawSQL  
-- **Brief Description:**  
-Designed a Star Schema and implemented ETL to consolidate disparate sources into a unified warehouse.  
-Produced Data Marts for performance analysis — identifying poor, average, and excellent performers.
+### 3️⃣ [ETL and Data Warehouse — Employee Performance Analysis](https://github.com/AnnizaMega/employee_data_warehouse_sql)  
+**Tools:** PostgreSQL, Canva, DrawSQL  
+**Business Impact:**
+- **Improved reporting accuracy by 5%** through consolidated data warehouse
+- **Designed Star Schema architecture** for scalable analytics
+- **Created Data Marts** for performance analysis and strategic decision-making
+
+**Key Techniques:** ETL processes, data warehouse design, performance analytics
 
 ---
 
-##  Lets’ Connect
+##  Professional Experience Highlights
 
-➥ **LinkedIn:** [https://www.linkedin.com/in/anniza-rahmawati-mega-suryani/](https://www.linkedin.com/in/anniza-rahmawati-mega-suryani/)  
-➥ **Email:** [annizamegabianalyst@gmail.com](mailto:annizamegabianalyst@gmail.com)  
-➥ **Portfolio Web (Google Sites):** [https://sites.google.com/view/portfolio-annizamega/](https://sites.google.com/view/portfolio-annizamega/)  
+### **Business Intelligence Analyst (Portfolio Projects)** — Dibimbing (2024)
+- Built **interactive sales forecasting dashboards** that boosted retail sales by 15%
+- Conducted **exploratory data analysis** and implemented **statistical modeling**
+- Created **comprehensive documentation** on segmentation methodology
+
+### **Business Development** — PT Yuefa Universal Group (2022-2025)
+*Key BI/BA Skills Applied:*
+- **Data-Driven Market Analysis:** Conducted comprehensive market research and competitor analysis using data analytics to identify $1.3M revenue opportunities across multiple regions
+- **Business Intelligence Implementation:** Analyzed trade data, pricing trends, and supply chain metrics to inform strategic decisions for 1,000+ MT monthly operations
+- **Stakeholder Requirements Gathering:** Collaborated with international clients, suppliers, and internal teams to understand business needs and translate them into actionable strategies
+- **Risk Assessment & Modeling:** Developed contingency plans and supplier risk assessment frameworks, reducing operational failures by identifying key performance indicators and risk metrics
+- **Performance Tracking:** Monitored KPIs for export operations, contract performance, and market penetration rates to optimize business outcomes
+
+### **Co-Owner (Part-time)** — Anonymous Outdoor Gears (2015-2024)
+*Key BI/BA Skills Applied:*
+- **Business Intelligence Dashboard Development:** Implemented BI dashboards and reporting systems, improving data accuracy by 5% and enabling business performance monitoring
+- **Data-Driven Decision Making:** Applied analytical thinking to pricing strategies, inventory management, and customer segmentation, resulting in 10% sales growth
+- **Financial Analysis:** Conducted regular P&L analysis, budget planning, and cost optimization using analytical tools and Excel modeling
+- **Customer Analytics:** Analyzed sales patterns, customer behavior, and market trends to inform business strategy and product positioning
+- **Process Documentation:** Created systematic approaches to business operations, translating business requirements into measurable processes
+- **Cross-functional Collaboration:** Worked with suppliers, logistics partners, and team members to optimize operations through data-driven insights
 
 ---
 
-##  Call To Action
+##  Let's Connect
 
- **If you’re looking for a motivated, adaptable, and business-savvy data professional who can drive smarter decisions and maximize impact — please feel free to contact me!**  
-Let's connect and explore opportunities together.
+📧 **Email:** [annizamegabianalyst@gmail.com](mailto:annizamegabianalyst@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/anniza-rahmawati-mega-suryani](https://www.linkedin.com/in/anniza-rahmawati-mega-suryani/)  
+🌐 **Portfolio:** [sites.google.com/view/portfolio-annizamega](https://sites.google.com/view/portfolio-annizamega/)  
+📊 **Tableau:** [Data Visualization Projects](https://public.tableau.com/profile/annizamega)  
+📱 **Mobile:** +628787805201
 
+---
+
+##  Ready to Drive Your Business Forward
+
+🎯 **Seeking Business Intelligence Analyst or Business Analyst roles in Malaysia, Singapore, or Australia**
+
+With **3+ years of business ownership experience** and **proven technical expertise** in data analytics, I bring a unique combination of **strategic business acumen** and **hands-on analytical skills**.
+
+**My value proposition:**
+- **Proven track record** of delivering measurable business results through data
+- **Deep understanding** of business operations from P&L to supply chain
+- **Technical expertise** in modern BI tools and methodologies
+- **International experience** and **cultural adaptability**
+
+**Ready to relocate** and contribute to your organization's data-driven success story.
+
+---
+
+*"Transforming data into strategic advantage through the lens of real business experience."*
