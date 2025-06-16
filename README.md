@@ -57,14 +57,11 @@ This combination of **real business ownership experience** and **technical data 
 
 ---
 
-##  Education & Certifications
-
-**Bachelor's Degree in Business Administration** | School of Business and Trade (2023-2025)
 
 ### **Professional Certifications:**
- **Business Intelligence Analyst** — Dibimbing **(Grade: 89.3/100)** (Jan-Jun 2024)  
- **Fast Track Data Analytics** — Digital Skola (Oct-Dec 2023)  
- **Google Data Analytics Certificate** — Google (2023)  
+ **Business Intelligence Analyst** — Dibimbing  
+ **Fast Track Data Analytics** — Digital Skola
+ **Google Data Analytics Certificate** — Google 
  **Business Analyst Certificate** — IBM (Coursera)  
 
 ---
@@ -83,7 +80,7 @@ This combination of **real business ownership experience** and **technical data 
 ---
 
 ### 2️⃣ [Optimizing Customer Engagement through RFM Segmentation](https://github.com/AnnizaMega/marketing_segmentation_analysis)  
-**Tools:** Python, scikit-learn, Power BI  
+**Tools:** Python, scikit-learn, Tableau  
 **Business Impact:**
 - **Increased targeted campaign effectiveness by 20%** through precise customer segmentation
 - **Enhanced customer targeting** leading to improved marketing ROI
