@@ -8,7 +8,7 @@
 
 ##  Introduction
 
-Hello, I'm **Anniza Rahmawati Mega Suryani**, an aspiring **Business Intelligence Analyst** with a proven track record of **driving measurable business impact through data-driven insights**.
+Hello, I'm **Anniza Rahmawati Mega Suryani**, a **Business Intelligence specialist** who combines business acumen with advanced analytics to drive data-driven decision making.
 
 My unique background combines **entrepreneurial experience** as **Co-Owner of Anonymous Outdoor Gears (2015–2024)** alongside **Business Development expertise at PT Yuefa Universal Group (2022–2025)**, with advanced **Business Intelligence and Data Analytics skills**.
 
@@ -23,17 +23,17 @@ This combination of **real business ownership experience** and **technical data 
 
 ###  **Why My Business Background Makes Me a Stronger BI/BA Professional:**
 
-** Deep Business Domain Knowledge:** My entrepreneurial experience, even part-time, provided hands-on understanding of business operations - from customer acquisition to inventory management, from pricing strategies to supplier relationships.
+**Deep Business Domain Knowledge:** My entrepreneurial experience, even part-time, provided hands-on understanding of business operations - from customer acquisition to inventory management, from pricing strategies to supplier relationships.
 
-** Stakeholder Communication:** Experience working with diverse stakeholders (suppliers, customers, partners, team members) across different business contexts has honed my ability to translate technical insights into business language that drives action.
+**Stakeholder Communication:** Experience working with diverse stakeholders (suppliers, customers, partners, team members) across different business contexts has honed my ability to translate technical insights into business language that drives action.
 
-** Business Impact Focus:** Having been involved in business operations with real financial implications, I instinctively focus on analyses that drive revenue, reduce costs, or improve operational efficiency - not just interesting data patterns.
+**Business Impact Focus:** Having been involved in business operations with real financial implications, I instinctively focus on analyses that drive revenue, reduce costs, or improve operational efficiency - not just interesting data patterns.
 
-** Requirements Gathering:** My business development and entrepreneurial experience involved constantly identifying client needs, market opportunities, and operational requirements - directly transferable to gathering business requirements for BI/BA projects.
+**Requirements Gathering:** My business development and entrepreneurial experience involved constantly identifying client needs, market opportunities, and operational requirements - directly transferable to gathering business requirements for BI/BA projects.
 
-** Problem-Solving Under Pressure:** Managing business operations and development projects has developed strong analytical thinking and decision-making skills in dynamic environments.
+**Problem-Solving Under Pressure:** Managing business operations and development projects has developed strong analytical thinking and decision-making skills in dynamic environments.
 
-**Career Goal:** Seeking **Business Intelligence Analyst or Business Analyst** roles with **competitive salary packages** in **Malaysia, Singapore, or Australia**.
+**Career Goal:** Seeking **Business Intelligence Analyst or Business Analyst** roles with **competitive salary packages** in **Indonesia, Malaysia, Singapore, or Australia**.
 
 ---
 
@@ -136,13 +136,12 @@ This combination of **real business ownership experience** and **technical data 
 💼 **LinkedIn:** [linkedin.com/in/anniza-rahmawati-mega-suryani](https://www.linkedin.com/in/anniza-rahmawati-mega-suryani/)  
 🌐 **Portfolio:** [sites.google.com/view/portfolio-annizamega](https://sites.google.com/view/portfolio-annizamega/)  
 📊 **Tableau:** [Data Visualization Projects](https://public.tableau.com/profile/annizamega)  
-📱 **Mobile:** +628787805201
 
 ---
 
 ##  Ready to Drive Your Business Forward
 
-🎯 **Seeking Business Intelligence Analyst or Business Analyst roles in Malaysia, Singapore, or Australia**
+ **Seeking Business Intelligence Analyst or Business Analyst roles in Malaysia, Singapore, or Australia**
 
 With **3+ years of business ownership experience** and **proven technical expertise** in data analytics, I bring a unique combination of **strategic business acumen** and **hands-on analytical skills**.
 
