@@ -40,8 +40,8 @@ This combination of **real business ownership experience** and **technical data 
 ##  Core Competencies
 
 ### **Business Intelligence & Analytics Experience**
-- **Market Research & Competitive Intelligence:** 7+ years analyzing market trends, competitor positioning, and industry dynamics to inform strategic decisions
-- **Financial Analysis & Modeling:** Extensive experience in P&L management, budgeting, forecasting, and ROI analysis across multiple business units
+- **Market Research & Competitive Intelligence:** 3+ years analyzing market trends, competitor positioning, and industry dynamics to inform strategic decisions
+- **Financial Analysis & Modeling:** Extensive experience in budgeting, forecasting, and ROI analysis across multiple business units
 - **Stakeholder Management:** Proven ability to work with diverse stakeholders (suppliers, customers, partners) to gather requirements and communicate insights
 - **Process Improvement:** Track record of identifying inefficiencies and implementing data-driven solutions to optimize operations
 
@@ -53,7 +53,7 @@ This combination of **real business ownership experience** and **technical data 
 
 ### **Leadership & Communication**
 - **Data Storytelling** | **Stakeholder Communication** | **Cross-functional Collaboration**
-- **Project Management** | **Team Leadership** | **Strategic Planning**
+- **Project Management** | **Team Leadership** | **Strategic Planning** | **Business Analyst**
 
 ---
 
